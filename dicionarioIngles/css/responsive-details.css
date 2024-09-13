@@ -1,0 +1,8 @@
+@media (max-width: 600px) {
+    main h1{
+        text-align: center;
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+    }
+}
